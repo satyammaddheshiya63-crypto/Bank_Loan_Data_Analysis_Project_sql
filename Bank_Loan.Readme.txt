@@ -1,0 +1,239 @@
+# Bank Loan Analysis SQL Project
+
+## Project Overview
+
+This project focuses on analyzing a bank loan dataset using SQL to identify customer risk, loan performance, repayment behavior, and business insights.
+
+The project demonstrates the use of:
+
+* GROUP BY
+* CTE (Common Table Expressions)
+* Window Functions
+* CASE WHEN
+* Aggregate Functions
+* Business KPI Calculations
+* Risk Analysis
+* Financial Analytics
+
+The goal of this project is to help banks understand customer behavior, reduce default risk, and improve loan approval strategies.
+
+---
+
+# Dataset Information
+
+## Table Name
+
+`bank_loan`
+
+## Columns Used
+
+| Column Name            | Description                |
+| ---------------------- | -------------------------- |
+| Customer_ID            | Unique customer identifier |
+| Gender                 | Gender of customer         |
+| Age                    | Customer age               |
+| Marital_Status         | Marital status             |
+| Education_Level        | Education qualification    |
+| Employment_Status      | Employment type            |
+| Annual_Income          | Yearly income              |
+| Credit_Score           | Customer credit score      |
+| Loan_ID                | Unique loan identifier     |
+| Loan_Type              | Type of loan               |
+| Loan_Amount            | Loan amount                |
+| Loan_Term_Months       | Loan duration              |
+| Interest_Rate          | Loan interest rate         |
+| Loan_Status            | Approved/Rejected status   |
+| Loan_Purpose           | Reason for loan            |
+| No_of_Delayed_Payments | Delayed payment count      |
+| Defaulted              | Loan default status        |
+| Monthly_Installment    | Monthly EMI amount         |
+
+---
+
+# SQL Concepts Used
+
+* GROUP BY
+* ORDER BY
+* Aggregate Functions
+* CASE WHEN
+* Common Table Expressions (CTE)
+* Window Functions
+* RANK()
+* AVG() OVER()
+* Conditional Aggregation
+* KPI Calculations
+
+---
+
+# Project Questions Solved
+
+## 1. Loan Distribution Analysis
+
+Analyzed total loans, total loan amount, and average interest rate for each loan type.
+
+### Skills Used
+
+* GROUP BY
+* COUNT()
+* SUM()
+* AVG()
+
+### Business Insight
+
+This analysis helps identify which loan types generate the highest business revenue and customer demand.
+
+---
+
+## 2. High-Risk Customer Segmentation
+
+Classified customers into risk categories using credit score and analyzed default percentage.
+
+### Skills Used
+
+* CASE WHEN
+* CTE
+* GROUP BY
+* Percentage Calculation
+
+### Business Insight
+
+Customers with lower credit scores showed higher default rates, indicating greater financial risk.
+
+---
+
+## 3. Top Customers by Loan Amount
+
+Identified customers with the highest total loan amount using ranking functions.
+
+### Skills Used
+
+* Window Functions
+* RANK()
+* CTE
+* Aggregation
+
+### Business Insight
+
+High-value customers can be targeted for premium banking services and financial products.
+
+---
+
+## 4. Default Rate by Education and Employment
+
+Analyzed default percentage across education and employment categories.
+
+### Skills Used
+
+* GROUP BY
+* CASE WHEN
+* CTE
+* Business Analytics
+
+### Business Insight
+
+Certain employment and education groups showed higher default risk, helping banks improve approval strategies.
+
+---
+
+## 5. Monthly Installment Burden Analysis
+
+Calculated EMI burden percentage and analyzed its impact on loan defaults.
+
+### Skills Used
+
+* Financial KPI Calculation
+* CASE WHEN
+* GROUP BY
+* Aggregation
+
+### Business Insight
+
+Customers with higher installment burden had significantly higher default percentages.
+
+---
+
+## 6. Loan Approval Trend by Age Group
+
+Created age-based customer categories and analyzed loan approval percentages.
+
+### Skills Used
+
+* CASE WHEN
+* Conditional Aggregation
+* GROUP BY
+
+### Business Insight
+
+Middle-aged customers showed higher approval rates due to stable income and better credit history.
+
+---
+
+## 7. Customers with Above-Average Loan Amount
+
+Compared customer loan amounts with average loan amount by loan type using window functions.
+
+### Skills Used
+
+* AVG() OVER()
+* PARTITION BY
+* CTE
+* Window Functions
+
+### Business Insight
+
+Customers taking significantly higher loans than average may require additional financial risk evaluation.
+
+---
+
+# Key KPIs Calculated
+
+* Default Rate
+* Approval Percentage
+* Average Loan Amount
+* Average Credit Score
+* Total Loan Amount
+* Installment Burden Percentage
+* Loan-to-Income Ratio
+
+---
+
+# Tools & Technologies Used
+
+* SQL
+* MySQL / PostgreSQL / SQL Server
+* Data Analytics
+* Business Intelligence Concepts
+
+---
+
+# Project Outcomes
+
+This project helped in:
+
+* Understanding banking analytics
+* Performing customer risk analysis
+* Learning advanced SQL concepts
+* Building business insights from data
+* Creating dashboard-ready queries
+* Improving analytical thinking
+
+---
+
+# Conclusion
+
+The Bank Loan Analysis project demonstrates how SQL can be used to solve real-world business problems in the banking industry. The analysis provides insights into customer behavior, loan performance, financial risk, and repayment patterns.
+
+This project is useful for:
+
+* Data Analyst Portfolio
+* SQL Practice
+* Banking Analytics
+* Interview Preparation
+* Dashboard Projects
+
+---
+
+# Author
+
+Satyam Maddheshiya
+Data Analytics Project

@@ -1,0 +1,201 @@
+Customer_ID,Gender,Age,Marital_Status,Education_Level,Employment_Status,Annual_Income,Credit_Score,Loan_ID,Loan_Type,Loan_Amount,Loan_Term_Months,Interest_Rate,Loan_Status,Loan_Purpose,No_of_Delayed_Payments,Defaulted,Monthly_Installment
+CUST001,Male,52,Single,Graduate,Self-employed,23596,403,L001,Car,480266,240,12.32,Approved,Renovation,7,0,5395.67
+CUST002,Female,59,Married,High School,Employed,129779,338,L002,Personal,493618,240,12.25,Approved,Debt Consolidation,8,0,5521.44
+CUST003,Male,52,Divorced,Undergraduate,Employed,26168,497,L003,Home,139055,24,13.14,Approved,Travel,6,0,6620.08
+CUST004,Male,24,Married,Graduate,Employed,128099,690,L004,Personal,495457,240,12.13,Rejected,Medical,0,0,5500.38
+CUST005,Male,50,Married,High School,Unemployed,27561,478,L005,Car,156734,36,10.51,Approved,Renovation,2,0,5094.98
+CUST006,Female,57,Divorced,High School,Employed,93794,747,L006,Car,290654,60,4.57,Approved,Debt Consolidation,7,0,5427.92
+CUST007,Male,43,Married,Undergraduate,Self-employed,102152,799,L007,Education,214259,60,3.39,Rejected,Travel,2,0,3887.2
+CUST008,Male,59,Married,Graduate,Self-employed,145036,314,L008,Home,177070,12,14.05,Rejected,Travel,7,0,15902.77
+CUST009,Male,35,Divorced,Graduate,Employed,144049,588,L009,Car,455062,120,10.4,Approved,Medical,0,0,6114.93
+CUST010,Female,63,Married,High School,Employed,46734,777,L010,Education,99071,240,12.56,Approved,Debt Consolidation,4,0,1129.78
+CUST011,Male,49,Divorced,Graduate,Self-employed,26371,530,L011,Home,273784,36,8.78,Approved,Travel,3,1,8678.25
+CUST012,Male,56,Married,High School,Unemployed,138894,719,L012,Car,311691,240,4.41,Rejected,Renovation,4,0,1956.8
+CUST013,Male,33,Divorced,Graduate,Employed,46069,456,L013,Car,321764,240,4.5,Approved,Medical,7,0,2035.64
+CUST014,Male,52,Divorced,High School,Employed,99905,849,L014,Home,151389,48,11.23,Approved,Debt Consolidation,9,1,3929.66
+CUST015,Female,27,Married,Graduate,Self-employed,32910,740,L015,Home,120608,12,8.16,Rejected,Medical,3,0,10500.42
+CUST016,Male,42,Married,Undergraduate,Employed,93479,396,L016,Home,274708,36,5.41,Approved,Renovation,3,0,8283.91
+CUST017,Female,48,Married,Graduate,Unemployed,97735,710,L017,Car,163417,36,8.9,Approved,Debt Consolidation,2,1,5189.01
+CUST018,Female,22,Single,Graduate,Self-employed,101264,588,L018,Car,118824,240,3.77,Approved,Medical,6,0,705.73
+CUST019,Female,62,Single,Undergraduate,Employed,43275,553,L019,Education,492439,12,9.98,Approved,Wedding,2,0,43288.63
+CUST020,Male,26,Single,Graduate,Self-employed,92274,495,L020,Personal,259444,60,6.23,Approved,Renovation,2,0,5043.57
+CUST021,Female,48,Divorced,Undergraduate,Employed,101449,821,L021,Home,84273,36,12.57,Approved,Renovation,9,0,2822.07
+CUST022,Male,48,Married,Graduate,Employed,120776,816,L022,Car,342003,60,6.72,Approved,Renovation,4,0,6726.98
+CUST023,Female,64,Divorced,High School,Employed,80004,417,L023,Car,216837,12,8.46,Approved,Wedding,4,1,18908.46
+CUST024,Female,64,Single,High School,Unemployed,82981,458,L024,Home,115017,60,3.14,Rejected,Wedding,5,0,2073.87
+CUST025,Female,40,Married,Graduate,Unemployed,104659,527,L025,Personal,472254,24,3.87,Approved,Travel,7,0,20480.28
+CUST026,Female,50,Divorced,Graduate,Self-employed,74553,515,L026,Home,128618,48,7.71,Rejected,Medical,9,1,3122.46
+CUST027,Female,31,Married,Graduate,Employed,68447,314,L027,Personal,450609,180,8.76,Approved,Travel,5,0,4506.27
+CUST028,Female,48,Divorced,High School,Employed,54529,456,L028,Car,464297,36,10.2,Rejected,Medical,0,0,15025.19
+CUST029,Female,45,Married,Graduate,Unemployed,146394,560,L029,Personal,130341,120,6.5,Approved,Wedding,7,0,1480
+CUST030,Female,59,Single,High School,Employed,95703,456,L030,Education,296574,48,11.34,Approved,Wedding,7,0,7714.17
+CUST031,Male,53,Single,Undergraduate,Unemployed,96090,346,L031,Car,211604,180,13.32,Approved,Travel,8,0,2722.01
+CUST032,Male,21,Married,High School,Employed,37260,623,L032,Education,32788,60,12.36,Rejected,Debt Consolidation,8,1,735.33
+CUST033,Female,47,Divorced,High School,Self-employed,132581,429,L033,Home,231577,36,3.48,Approved,Travel,1,0,6783.64
+CUST034,Female,33,Single,Undergraduate,Employed,23812,710,L034,Home,446759,60,8.77,Approved,Medical,1,0,9224.19
+CUST035,Female,61,Single,High School,Employed,48024,394,L035,Home,412135,24,4.26,Approved,Travel,2,0,17944.66
+CUST036,Male,23,Single,Graduate,Unemployed,78656,591,L036,Personal,336490,12,5.9,Rejected,Renovation,0,1,28945.03
+CUST037,Female,59,Married,Graduate,Employed,136148,582,L037,Car,363266,36,14.84,Approved,Medical,3,1,12564.29
+CUST038,Male,26,Married,High School,Employed,47285,368,L038,Home,44974,180,4.71,Approved,Medical,3,0,348.89
+CUST039,Male,28,Divorced,Graduate,Unemployed,112436,310,L039,Home,374453,180,8.99,Approved,Debt Consolidation,8,0,3795.72
+CUST040,Male,47,Divorced,High School,Self-employed,136421,553,L040,Car,21371,24,10.42,Rejected,Wedding,8,0,990.31
+CUST041,Male,29,Divorced,Graduate,Self-employed,21605,849,L041,Home,312228,24,11.43,Approved,Medical,8,0,14614.68
+CUST042,Male,57,Married,Graduate,Unemployed,91158,433,L042,Education,427845,240,9.72,Approved,Wedding,9,0,4049.74
+CUST043,Female,53,Married,High School,Unemployed,92303,322,L043,Car,187256,36,3.12,Approved,Travel,6,0,5455.54
+CUST044,Female,62,Divorced,Graduate,Unemployed,47139,645,L044,Car,329060,60,6.92,Approved,Renovation,1,1,6503.37
+CUST045,Female,64,Divorced,High School,Unemployed,97149,601,L045,Car,78972,120,9.21,Approved,Debt Consolidation,9,0,1009.38
+CUST046,Female,44,Married,Graduate,Unemployed,76138,662,L046,Education,198259,180,4.05,Approved,Wedding,4,0,1471.47
+CUST047,Female,35,Divorced,Graduate,Self-employed,138205,695,L047,Car,280128,180,7.21,Approved,Medical,3,0,2550.87
+CUST048,Male,52,Single,Undergraduate,Self-employed,96125,517,L048,Education,300183,24,3.4,Approved,Wedding,7,0,12955.41
+CUST049,Female,52,Married,Undergraduate,Unemployed,33918,440,L049,Car,90431,48,3.94,Approved,Medical,1,0,2039.42
+CUST050,Female,44,Divorced,High School,Employed,105655,509,L050,Personal,350835,24,7.76,Approved,Wedding,5,0,15828.94
+CUST051,Male,61,Married,Undergraduate,Unemployed,47446,759,L051,Home,325750,120,4.59,Approved,Medical,4,0,3390.17
+CUST052,Female,32,Single,High School,Employed,144040,655,L052,Personal,408832,60,9.81,Approved,Travel,1,0,8648.3
+CUST053,Male,59,Married,Undergraduate,Unemployed,33046,623,L053,Home,369809,60,11.27,Approved,Medical,9,1,8090.43
+CUST054,Female,22,Married,Graduate,Unemployed,149922,432,L054,Education,110373,48,12.61,Approved,Medical,0,0,2939.71
+CUST055,Male,23,Married,High School,Self-employed,44818,426,L055,Personal,186144,180,5.4,Approved,Renovation,7,0,1511.09
+CUST056,Female,57,Married,High School,Employed,120894,405,L056,Car,291718,24,5.01,Approved,Medical,1,0,12799.38
+CUST057,Female,37,Single,Graduate,Employed,135751,677,L057,Home,401646,240,4.25,Approved,Renovation,6,0,2487.13
+CUST058,Male,22,Married,High School,Self-employed,24324,350,L058,Home,255195,60,10.64,Approved,Debt Consolidation,8,0,5502.85
+CUST059,Male,22,Married,High School,Self-employed,96323,328,L059,Personal,148748,120,11.48,Rejected,Renovation,8,1,2089.63
+CUST060,Male,48,Divorced,Undergraduate,Self-employed,29111,761,L060,Education,409032,36,3.38,Approved,Travel,7,0,11963.77
+CUST061,Male,43,Married,High School,Self-employed,58110,595,L061,Personal,37733,12,14.23,Approved,Renovation,9,0,3392.02
+CUST062,Male,57,Divorced,Graduate,Employed,36389,596,L062,Education,221752,12,3.62,Approved,Debt Consolidation,8,0,18843.68
+CUST063,Male,52,Single,Undergraduate,Employed,142177,706,L063,Education,7050,12,9.5,Approved,Travel,1,0,618.17
+CUST064,Male,53,Single,Undergraduate,Unemployed,61427,704,L064,Home,114996,240,11.51,Approved,Wedding,5,0,1227.14
+CUST065,Male,21,Single,Graduate,Unemployed,99579,645,L065,Personal,38933,180,13.45,Approved,Wedding,3,0,504.18
+CUST066,Female,39,Single,Graduate,Self-employed,48746,719,L066,Personal,29951,24,11.57,Approved,Renovation,3,0,1403.89
+CUST067,Female,22,Divorced,Undergraduate,Self-employed,142883,481,L067,Education,37413,48,12.62,Approved,Renovation,4,0,996.66
+CUST068,Male,64,Married,High School,Self-employed,107886,300,L068,Personal,170873,240,7.07,Approved,Debt Consolidation,2,0,1331.97
+CUST069,Female,46,Single,Undergraduate,Unemployed,127141,670,L069,Car,191691,240,12.78,Approved,Debt Consolidation,0,0,2215.83
+CUST070,Female,52,Married,Graduate,Unemployed,20117,730,L070,Car,431129,60,3.96,Rejected,Medical,7,0,7932.12
+CUST071,Female,26,Divorced,Undergraduate,Unemployed,145808,608,L071,Personal,379717,36,13.74,Approved,Debt Consolidation,4,1,12929.93
+CUST072,Female,52,Divorced,Graduate,Unemployed,132221,436,L072,Personal,438816,240,9.57,Rejected,Medical,2,0,4110.42
+CUST073,Male,24,Divorced,Undergraduate,Unemployed,104471,501,L073,Education,193847,120,12.81,Approved,Travel,9,0,2872.66
+CUST074,Female,31,Single,High School,Unemployed,132613,735,L074,Car,226888,36,8.43,Approved,Renovation,6,0,7154.94
+CUST075,Male,37,Married,Undergraduate,Unemployed,33234,612,L075,Car,266044,120,10.72,Approved,Travel,6,0,3622.72
+CUST076,Female,58,Married,Undergraduate,Self-employed,149597,416,L076,Home,226165,180,9.32,Approved,Debt Consolidation,0,0,2337.17
+CUST077,Female,44,Married,Graduate,Self-employed,123864,543,L077,Education,248662,24,11.78,Rejected,Travel,8,1,11679.85
+CUST078,Female,25,Divorced,Graduate,Self-employed,73441,836,L078,Home,171472,12,3.98,Approved,Travel,1,0,14599.26
+CUST079,Male,54,Single,Graduate,Self-employed,20846,374,L079,Car,402710,240,3.72,Rejected,Travel,4,0,2381.34
+CUST080,Female,26,Divorced,Undergraduate,Unemployed,30954,685,L080,Education,216760,24,5.97,Approved,Debt Consolidation,4,0,9604.01
+CUST081,Male,42,Divorced,High School,Employed,99239,509,L081,Personal,127744,180,4.91,Rejected,Travel,7,0,1004.21
+CUST082,Female,31,Married,Graduate,Unemployed,133689,774,L082,Education,356575,48,13.46,Approved,Medical,7,0,9647.62
+CUST083,Male,36,Divorced,Graduate,Employed,66514,717,L083,Personal,210763,48,5.63,Approved,Debt Consolidation,6,1,4914.1
+CUST084,Female,53,Married,Undergraduate,Self-employed,108236,646,L084,Personal,495635,180,14.71,Approved,Travel,6,1,6838.66
+CUST085,Male,29,Single,Graduate,Unemployed,117579,828,L085,Education,48001,120,7.04,Approved,Debt Consolidation,5,0,558.32
+CUST086,Male,26,Married,High School,Self-employed,148644,478,L086,Personal,72364,60,5.19,Approved,Wedding,5,0,1371.91
+CUST087,Female,36,Single,High School,Unemployed,26469,481,L087,Home,392132,60,12.48,Approved,Medical,8,0,8818.17
+CUST088,Male,49,Married,Graduate,Self-employed,50105,324,L088,Car,312172,120,10.9,Rejected,Travel,5,0,4282.52
+CUST089,Female,23,Divorced,Graduate,Employed,62101,479,L089,Personal,243506,48,8.98,Approved,Wedding,1,0,6057.34
+CUST090,Female,40,Divorced,Undergraduate,Employed,84323,800,L090,Home,233731,48,9.66,Approved,Wedding,1,0,5889.93
+CUST091,Female,56,Single,High School,Employed,111922,460,L091,Personal,435789,240,11.63,Approved,Debt Consolidation,4,0,4686.48
+CUST092,Female,39,Single,High School,Unemployed,78067,476,L092,Car,136878,48,5.74,Approved,Wedding,3,1,3198.29
+CUST093,Female,46,Single,Graduate,Employed,69376,584,L093,Home,391487,24,14.96,Approved,Medical,1,0,18974.45
+CUST094,Female,23,Married,Undergraduate,Unemployed,65587,362,L094,Car,192710,48,14.7,Approved,Medical,2,0,5334
+CUST095,Female,39,Married,High School,Employed,56976,455,L095,Car,133301,36,10.8,Approved,Renovation,6,0,4351.49
+CUST096,Female,40,Single,High School,Employed,124587,768,L096,Home,393439,240,5.39,Approved,Medical,7,0,2682.03
+CUST097,Female,52,Divorced,Undergraduate,Unemployed,147534,348,L097,Home,165829,12,11.16,Approved,Wedding,5,0,14668.62
+CUST098,Female,27,Married,Undergraduate,Unemployed,87584,383,L098,Home,39636,48,3.87,Approved,Medical,4,0,892.64
+CUST099,Female,61,Married,High School,Employed,124537,660,L099,Education,216169,120,3.37,Approved,Debt Consolidation,0,0,2124.47
+CUST100,Male,53,Married,High School,Unemployed,98477,447,L100,Home,184352,12,6.09,Approved,Renovation,7,0,15874.15
+CUST101,Male,60,Single,Undergraduate,Employed,130911,641,L101,Home,291406,24,8.55,Approved,Wedding,2,0,13252.72
+CUST102,Female,59,Single,High School,Unemployed,62533,775,L102,Home,347579,120,13.42,Approved,Renovation,5,0,5276.19
+CUST103,Female,38,Single,Graduate,Self-employed,21828,362,L103,Home,198283,12,11.73,Approved,Wedding,2,0,17592.17
+CUST104,Female,60,Single,Graduate,Self-employed,21917,659,L104,Personal,453058,120,11.91,Rejected,Debt Consolidation,6,0,6476.52
+CUST105,Female,21,Single,Undergraduate,Self-employed,40618,626,L105,Education,395727,24,8.11,Approved,Renovation,6,0,17917.52
+CUST106,Female,31,Divorced,Undergraduate,Self-employed,52254,440,L106,Car,455195,240,7.15,Rejected,Travel,8,1,3570.22
+CUST107,Female,48,Divorced,Undergraduate,Self-employed,125292,514,L107,Home,250596,36,7.45,Approved,Wedding,4,0,7789.34
+CUST108,Female,45,Single,Graduate,Employed,136714,734,L108,Personal,479686,24,14.85,Approved,Travel,7,0,23224.19
+CUST109,Female,43,Married,High School,Self-employed,67362,617,L109,Personal,436413,24,3.48,Approved,Renovation,9,0,18850.36
+CUST110,Male,51,Single,Graduate,Self-employed,40128,331,L110,Personal,308988,120,13.4,Rejected,Travel,9,0,4686.71
+CUST111,Female,50,Divorced,High School,Self-employed,143781,584,L111,Car,331898,240,9.94,Approved,Travel,7,0,3189.7
+CUST112,Male,62,Divorced,Graduate,Self-employed,131281,604,L112,Home,432373,180,8.26,Rejected,Renovation,0,0,4197.14
+CUST113,Female,55,Married,High School,Unemployed,79383,728,L113,Education,344273,60,11.7,Rejected,Debt Consolidation,4,1,7606.07
+CUST114,Female,27,Divorced,Graduate,Employed,85545,776,L114,Education,307186,48,8.84,Approved,Travel,2,0,7621.02
+CUST115,Male,36,Single,Undergraduate,Self-employed,102180,585,L115,Personal,66665,48,13.48,Approved,Travel,0,0,1804.38
+CUST116,Female,46,Married,Graduate,Self-employed,107958,443,L116,Car,251584,36,13.81,Approved,Debt Consolidation,3,0,8575.35
+CUST117,Male,22,Single,High School,Self-employed,29865,723,L117,Car,121953,36,8.06,Approved,Travel,7,1,3824.94
+CUST118,Female,21,Single,Graduate,Employed,22219,318,L118,Car,481072,48,6.32,Rejected,Travel,2,0,11368.7
+CUST119,Female,32,Married,Graduate,Unemployed,59809,317,L119,Education,163448,60,10.11,Rejected,Travel,9,0,3481.64
+CUST120,Male,25,Single,Graduate,Employed,136748,670,L120,Personal,191626,48,13.95,Approved,Medical,1,0,5231.66
+CUST121,Female,57,Divorced,Undergraduate,Unemployed,25287,474,L121,Home,150271,180,5.53,Approved,Debt Consolidation,8,0,1230.23
+CUST122,Male,52,Single,Graduate,Self-employed,146593,493,L122,Education,123533,60,10.48,Approved,Travel,9,0,2653.98
+CUST123,Female,29,Married,Undergraduate,Self-employed,54387,801,L123,Personal,479628,36,10.58,Approved,Debt Consolidation,4,0,15607.18
+CUST124,Male,61,Married,Undergraduate,Employed,28512,412,L124,Personal,449164,12,11.8,Rejected,Wedding,6,0,39865.66
+CUST125,Male,55,Married,Graduate,Employed,21342,413,L125,Home,78781,120,4.58,Approved,Wedding,1,0,819.52
+CUST126,Female,39,Single,Graduate,Unemployed,83076,521,L126,Home,470966,180,11.59,Approved,Travel,8,1,5528.75
+CUST127,Female,36,Married,Graduate,Unemployed,128872,563,L127,Home,71262,180,13.91,Approved,Debt Consolidation,8,0,944.72
+CUST128,Male,23,Married,High School,Employed,39216,354,L128,Car,313744,240,5.16,Approved,Debt Consolidation,3,0,2098.4
+CUST129,Female,40,Single,Graduate,Unemployed,137512,757,L129,Home,81898,36,5.85,Approved,Debt Consolidation,3,0,2485.93
+CUST130,Female,44,Divorced,Undergraduate,Employed,136682,461,L130,Personal,460699,36,14.66,Approved,Medical,5,0,15893.68
+CUST131,Female,53,Single,Graduate,Unemployed,113070,679,L131,Home,154369,24,5.17,Approved,Wedding,9,0,6784.14
+CUST132,Male,44,Married,High School,Employed,99767,386,L132,Personal,35448,180,13.25,Approved,Debt Consolidation,9,0,454.35
+CUST133,Male,31,Married,Graduate,Employed,117829,354,L133,Education,293316,24,8.91,Rejected,Debt Consolidation,9,0,13387.96
+CUST134,Male,28,Single,High School,Employed,46614,775,L134,Car,441090,24,5.97,Approved,Medical,5,0,19543.42
+CUST135,Male,56,Divorced,High School,Unemployed,56258,477,L135,Education,12657,120,13.45,Approved,Medical,0,0,192.36
+CUST136,Male,58,Married,Graduate,Unemployed,113789,690,L136,Education,482602,24,8.34,Approved,Debt Consolidation,8,0,21901.69
+CUST137,Male,60,Married,Undergraduate,Unemployed,62078,648,L137,Personal,261689,60,9.18,Approved,Renovation,1,0,5455.12
+CUST138,Male,40,Married,High School,Employed,126288,307,L138,Education,423641,48,7.31,Approved,Debt Consolidation,4,0,10205.65
+CUST139,Male,55,Single,Graduate,Unemployed,103524,612,L139,Personal,424901,12,10.12,Approved,Debt Consolidation,8,0,37379.27
+CUST140,Male,45,Married,Graduate,Unemployed,116573,742,L140,Home,379999,36,4.96,Approved,Medical,3,0,11382.09
+CUST141,Female,55,Divorced,Undergraduate,Employed,32219,627,L141,Home,422794,60,7.69,Approved,Medical,2,0,8510.15
+CUST142,Male,45,Married,High School,Self-employed,20235,353,L142,Personal,164903,12,14.63,Approved,Debt Consolidation,6,0,14855.09
+CUST143,Female,49,Married,High School,Employed,62929,538,L143,Home,12906,180,6.1,Approved,Debt Consolidation,5,0,109.61
+CUST144,Female,38,Divorced,Graduate,Unemployed,147309,528,L144,Car,328557,180,10.88,Rejected,Debt Consolidation,7,0,3709.65
+CUST145,Female,38,Married,Graduate,Employed,87444,350,L145,Education,59028,180,6.9,Approved,Medical,2,0,527.27
+CUST146,Male,22,Single,Undergraduate,Self-employed,28567,563,L146,Car,274431,60,12.28,Approved,Debt Consolidation,4,0,6143.47
+CUST147,Male,55,Single,Undergraduate,Employed,121834,717,L147,Education,300804,60,4.57,Approved,Debt Consolidation,9,0,5617.47
+CUST148,Male,36,Single,High School,Unemployed,90792,395,L148,Home,473974,36,14.64,Approved,Travel,3,0,16347.03
+CUST149,Male,61,Divorced,High School,Self-employed,85441,387,L149,Car,327648,48,8.45,Approved,Renovation,3,0,8068.24
+CUST150,Female,56,Married,Graduate,Unemployed,104555,377,L150,Home,195792,240,5.83,Approved,Wedding,3,1,1383.58
+CUST151,Male,53,Single,High School,Self-employed,93698,587,L151,Education,107979,24,3.88,Rejected,Renovation,9,0,4683.21
+CUST152,Male,24,Divorced,Undergraduate,Self-employed,144450,419,L152,Personal,39701,180,5.04,Approved,Travel,7,0,314.78
+CUST153,Male,53,Married,Undergraduate,Employed,137248,790,L153,Personal,88300,120,9.24,Approved,Wedding,5,0,1130.05
+CUST154,Male,34,Divorced,Graduate,Employed,25415,751,L154,Car,246249,48,7.04,Approved,Debt Consolidation,2,0,5901.31
+CUST155,Male,41,Single,Undergraduate,Unemployed,56159,799,L155,Home,153746,120,12.95,Approved,Travel,9,0,2291.06
+CUST156,Female,40,Single,Undergraduate,Employed,63925,464,L156,Home,88560,36,8.17,Approved,Debt Consolidation,4,0,2782.1
+CUST157,Male,28,Single,Undergraduate,Employed,146523,481,L157,Car,247615,36,5.98,Approved,Medical,5,1,7530.68
+CUST158,Female,27,Divorced,Undergraduate,Self-employed,25951,768,L158,Personal,422090,36,10.41,Approved,Travel,4,0,13701.05
+CUST159,Male,23,Divorced,Graduate,Employed,107388,306,L159,Education,48642,12,11.48,Rejected,Medical,5,0,4309.96
+CUST160,Female,37,Single,Graduate,Self-employed,28007,629,L160,Car,496036,120,5,Approved,Travel,7,0,5261.23
+CUST161,Male,53,Divorced,High School,Self-employed,146730,450,L161,Education,332304,48,5.01,Approved,Travel,6,0,7654.23
+CUST162,Male,32,Single,Undergraduate,Self-employed,61832,384,L162,Personal,284746,240,3.44,Approved,Medical,4,0,1642.65
+CUST163,Female,42,Single,High School,Unemployed,78596,446,L163,Home,370464,48,11.84,Approved,Wedding,9,0,9726.66
+CUST164,Female,42,Married,Graduate,Unemployed,141101,680,L164,Personal,93801,60,10.97,Approved,Renovation,5,0,2038.06
+CUST165,Female,50,Divorced,Graduate,Unemployed,50523,847,L165,Car,293075,60,8.7,Approved,Debt Consolidation,3,0,6041.17
+CUST166,Male,58,Single,Graduate,Self-employed,108861,584,L166,Home,99377,180,13.13,Approved,Travel,8,0,1265.87
+CUST167,Female,58,Single,Graduate,Unemployed,144194,381,L167,Car,296336,240,12.67,Rejected,Debt Consolidation,3,1,3402.37
+CUST168,Male,28,Divorced,Graduate,Unemployed,106740,813,L168,Car,313686,60,10.02,Approved,Medical,0,1,6667.99
+CUST169,Male,47,Married,Graduate,Employed,35524,822,L169,Personal,394159,36,13.42,Approved,Debt Consolidation,6,0,13360.65
+CUST170,Female,47,Married,Graduate,Unemployed,149028,685,L170,Car,309664,48,5.47,Rejected,Medical,6,0,7197.46
+CUST171,Female,54,Single,Undergraduate,Unemployed,39282,770,L171,Personal,331916,120,4.34,Approved,Debt Consolidation,3,0,3414.38
+CUST172,Male,41,Divorced,High School,Self-employed,43930,418,L172,Home,456978,36,6.24,Approved,Renovation,2,1,13951.9
+CUST173,Male,50,Married,Graduate,Self-employed,20077,695,L173,Personal,317250,12,3.69,Approved,Renovation,7,0,26968.89
+CUST174,Female,53,Divorced,Undergraduate,Self-employed,125881,831,L174,Home,86121,60,9.37,Approved,Renovation,4,0,1803.23
+CUST175,Female,48,Divorced,Undergraduate,Self-employed,145501,560,L175,Personal,30559,36,14.24,Approved,Renovation,9,0,1048
+CUST176,Female,53,Single,High School,Self-employed,40611,555,L176,Education,372739,36,3.47,Rejected,Renovation,6,0,10917.08
+CUST177,Male,25,Married,Graduate,Self-employed,36984,525,L177,Education,38742,12,4.47,Approved,Renovation,3,1,3307.2
+CUST178,Male,39,Single,High School,Unemployed,34060,352,L178,Car,336813,24,8.43,Approved,Medical,3,1,15299.28
+CUST179,Male,24,Married,Graduate,Self-employed,102985,799,L179,Personal,478415,48,14.21,Approved,Travel,7,0,13123.85
+CUST180,Male,55,Married,Undergraduate,Self-employed,104056,805,L180,Personal,157826,120,6.79,Approved,Debt Consolidation,7,0,1815.46
+CUST181,Male,37,Married,Undergraduate,Employed,145329,663,L181,Home,140044,180,9.09,Approved,Renovation,1,0,1427.93
+CUST182,Male,64,Married,Undergraduate,Unemployed,63303,579,L182,Car,337975,24,3.5,Approved,Medical,1,0,14601.44
+CUST183,Female,48,Married,Undergraduate,Unemployed,79207,457,L183,Personal,117217,60,4.78,Rejected,Medical,2,0,2200.23
+CUST184,Male,50,Divorced,High School,Unemployed,95046,358,L184,Car,46873,36,14.84,Approved,Medical,2,0,1621.2
+CUST185,Male,49,Single,Graduate,Self-employed,49287,427,L185,Education,492877,240,14.58,Approved,Travel,0,0,6337.73
+CUST186,Male,26,Divorced,Graduate,Self-employed,113709,414,L186,Personal,373676,12,3.06,Approved,Debt Consolidation,2,0,31658.22
+CUST187,Female,55,Married,High School,Self-employed,59711,508,L187,Personal,393411,12,14.42,Approved,Travel,5,1,35401.03
+CUST188,Male,61,Single,Graduate,Employed,31954,825,L188,Car,408119,240,10.67,Approved,Wedding,7,0,4121.29
+CUST189,Male,57,Married,Undergraduate,Self-employed,93340,820,L189,Personal,139092,48,13.42,Approved,Medical,9,0,3760.55
+CUST190,Female,44,Single,Graduate,Employed,92101,536,L190,Car,308899,24,8.46,Approved,Wedding,5,1,14035.56
+CUST191,Male,49,Divorced,Undergraduate,Unemployed,91520,580,L191,Personal,353100,180,9.19,Approved,Renovation,4,0,3621.39
+CUST192,Male,51,Single,High School,Self-employed,107062,658,L192,Home,91988,48,8.87,Approved,Renovation,3,0,2283.45
+CUST193,Male,55,Single,Graduate,Employed,122974,500,L193,Car,50648,240,11,Approved,Travel,2,1,522.78
+CUST194,Male,53,Single,High School,Employed,38574,577,L194,Personal,130991,36,4.68,Rejected,Debt Consolidation,3,1,3907.13
+CUST195,Male,41,Single,Graduate,Self-employed,29184,534,L195,Education,407732,240,3.36,Approved,Wedding,6,0,2335.45
+CUST196,Female,52,Single,Undergraduate,Unemployed,39096,793,L196,Personal,382149,48,6.7,Approved,Debt Consolidation,0,0,9097.94
+CUST197,Female,43,Married,High School,Unemployed,87728,303,L197,Education,7396,120,11.46,Approved,Travel,6,0,103.82
+CUST198,Female,53,Single,Graduate,Unemployed,54016,741,L198,Education,89082,12,5.42,Rejected,Renovation,0,0,7643.24
+CUST199,Male,23,Single,Undergraduate,Employed,31246,328,L199,Home,417345,12,11.08,Rejected,Debt Consolidation,1,1,36901.22
+CUST200,Male,38,Divorced,High School,Employed,65558,408,L200,Car,133322,60,14.64,Approved,Debt Consolidation,3,0,3146.58
